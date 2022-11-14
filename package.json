@@ -1,0 +1,23 @@
+{
+  "name": "apathy",
+  "displayName": "Apathy",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Valentin Berlier <berlier.v@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apathy Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/apathy-dark-color-theme.json"
+      }
+    ]
+  }
+}
