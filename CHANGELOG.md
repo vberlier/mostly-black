@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/vberlier/apathy/compare/v1.0.0...v1.0.1) (2022-11-14)
+
+
+### Bug Fixes
+
+* publish theme ([d323da6](https://github.com/vberlier/apathy/commit/d323da6fe10ff4ac358bd113e76fe8b4ddb71cf5))
+
 # 1.0.0 (2022-11-14)
 
 
