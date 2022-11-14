@@ -2,13 +2,14 @@
   "name": "apathy",
   "displayName": "Apathy",
   "description": "",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Valentin Berlier <berlier.v@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/vberlier/apathy.git"
   },
+  "publisher": "vberlier",
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -35,13 +36,36 @@
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": false
+        }
+      ],
+      [
+        "semantic-release-vsce",
+        {
+          "packageVsix": true
+        }
+      ],
       "@semantic-release/git",
-      "@semantic-release/github"
+      [
+        "@semantic-release/github",
+        {
+          "assets": [
+            {
+              "path": "*.vsix",
+              "label": "Extension File"
+            }
+          ]
+        }
+      ]
     ]
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^19.0.5",
+    "semantic-release-vsce": "^5.2.4"
   }
 }
