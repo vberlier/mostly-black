@@ -1,13 +1,13 @@
 {
-  "name": "apathy",
-  "displayName": "Apathy",
+  "name": "mostly-black",
+  "displayName": "Mostly Black",
   "description": "",
   "version": "1.0.3",
   "author": "Valentin Berlier <berlier.v@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vberlier/apathy.git"
+    "url": "https://github.com/vberlier/mostly-black.git"
   },
   "publisher": "vberlier",
   "engines": {
@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Apathy Dark",
+        "label": "Mostly Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/apathy-dark-color-theme.json"
+        "path": "./themes/mostly-black-color-theme.json"
       }
     ]
   },
