@@ -32,6 +32,8 @@
     "button.border": "#cabdae",
     "button.separator": "#cabdae",
     "button.hoverBackground": "#000000",
+    "button.secondaryBackground": "#000000",
+    "button.secondaryForeground": "#cabdae",
     "checkbox.background": "#000000",
     "checkbox.foreground": "#cabdae",
     "checkbox.border": "#cabdae",
@@ -150,6 +152,8 @@
     "statusBar.background": "#000000",
     "statusBar.foreground": "#c4c4c4",
     "statusBar.border": "#1d1d1d",
+    "statusBar.noFolderBackground": "#000000",
+    "statusBar.noFolderForeground": "#c4c4c4",
 
     // Title
     "titleBar.activeBackground": "#000000",
