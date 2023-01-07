@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/vberlier/apathy/compare/v1.0.2...v1.0.3) (2023-01-07)
+
+
+### Bug Fixes
+
+* new workbench colors ([ac473f1](https://github.com/vberlier/apathy/commit/ac473f1b710a03aa10d7cb7fecb9565c75b8284a))
+
 ## [1.0.2](https://github.com/vberlier/apathy/compare/v1.0.1...v1.0.2) (2022-11-14)
 
 
