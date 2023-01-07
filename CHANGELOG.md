@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/vberlier/mostly-black/compare/v1.0.3...v1.1.0) (2023-01-07)
+
+
+### Bug Fixes
+
+* forgot to remove empty color ([2e2d175](https://github.com/vberlier/mostly-black/commit/2e2d1756699774f0c04618cb7c9499d7d6cca1a5))
+
+
+### Features
+
+* rename theme ([c41e1f9](https://github.com/vberlier/mostly-black/commit/c41e1f922f80fcd461ea0b8569148288f896e714))
+
 ## [1.0.3](https://github.com/vberlier/mostly-black/compare/v1.0.2...v1.0.3) (2023-01-07)
 
 
