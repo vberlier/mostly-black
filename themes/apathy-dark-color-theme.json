@@ -170,9 +170,7 @@
     "terminal.selectionBackground": "#222426",
     "terminal.inactiveSelectionBackground": "#1d1d1d",
     "terminalCursor.foreground": "#ffff00",
-    "terminal.dropBackground": "#1d1d1d",
-
-    "": ""
+    "terminal.dropBackground": "#1d1d1d"
   },
   "tokenColors": [
     {
