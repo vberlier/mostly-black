@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/vberlier/mostly-black/compare/v1.2.0...v1.2.1) (2023-01-08)
+
+
+### Bug Fixes
+
+* add icon ([2824d2e](https://github.com/vberlier/mostly-black/commit/2824d2e76e716debb93502d917b75858b2ff1a08))
+
 # [1.2.0](https://github.com/vberlier/mostly-black/compare/v1.1.0...v1.2.0) (2023-01-08)
 
 
