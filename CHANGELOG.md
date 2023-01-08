@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/vberlier/mostly-black/compare/v1.2.1...v1.3.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* tweak menu ([9f5f031](https://github.com/vberlier/mostly-black/commit/9f5f031e69ed0899d008d22bea86691a7cfb7a5f))
+
+
+### Features
+
+* readme preview ([bc60c07](https://github.com/vberlier/mostly-black/commit/bc60c07a013419442dd7de3e27dc811d29ebe036))
+
 ## [1.2.1](https://github.com/vberlier/mostly-black/compare/v1.2.0...v1.2.1) (2023-01-08)
 
 
