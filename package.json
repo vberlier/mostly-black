@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/vberlier/mostly-black.git"
   },
+  "icon": "assets/icon.png",
   "publisher": "vberlier",
   "engines": {
     "vscode": "^1.73.0"
