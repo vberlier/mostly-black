@@ -163,6 +163,9 @@
     "titleBar.inactiveBackground": "#000000",
     "titleBar.border": "#1d1d1d",
 
+    // Menu
+    "menu.background": "#1d1d1d",
+
     // Notification
     "notifications.background": "#1d1d1d",
     "notificationCenterHeader.background": "#1d1d1d",
