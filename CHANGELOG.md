@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/vberlier/mostly-black/compare/v1.1.0...v1.2.0) (2023-01-08)
+
+
+### Bug Fixes
+
+* tweak button secondary and status bar ([20fe513](https://github.com/vberlier/mostly-black/commit/20fe513fd0a64a3f8b2cff9447021f0c5afd4eb0))
+
+
+### Features
+
+* token colors ([886bcaa](https://github.com/vberlier/mostly-black/commit/886bcaaa5cf0342d3d70efa4ab5e6a188cd616f1))
+
 # [1.1.0](https://github.com/vberlier/mostly-black/compare/v1.0.3...v1.1.0) (2023-01-07)
 
 
