@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/vberlier/mostly-black/compare/v1.3.0...v1.3.1) (2025-07-25)
+
+
+### Bug Fixes
+
+* dummy ([a20dd1a](https://github.com/vberlier/mostly-black/commit/a20dd1a73dc9f7a955a95906000c43433e2c3ba0))
+
 # [1.3.0](https://github.com/vberlier/mostly-black/compare/v1.2.1...v1.3.0) (2023-01-08)
 
 
